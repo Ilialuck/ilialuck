@@ -55,7 +55,7 @@
 Я всегда открыт к обсуждению интересных проектов, идей или возможностей для сотрудничества в сфере финансового анализа и data science.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ссылка_на_linkedin)
-[![Telegram]([@Ilyaluck](https://t.me/Ilyaluck))]
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([ссылка_на_telegram](https://t.me/Ilyaluck))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyalukyanov92@gmail.com)
 
 ---
